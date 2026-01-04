@@ -23,3 +23,5 @@ Comparison of log-transformed expression levels across identified gene categorie
 ##  Tech Stack
 * **R / Tidyverse** (dplyr, ggplot2, tidyr)
 * **Statistical Methods:** Paired t-test, Log transformation.
+
+Data Preprocessing: The pipeline includes a specialized step to handle raw CSV files with placeholder columns (double-comma delimiters), ensuring clean data mapping before statistical computation.
