@@ -1,7 +1,7 @@
 # differential-gene-expression-R
 Gene expression profiling (LS vs HS samples) using Tidyverse. Includes paired t-tests, fold change calculation, and visualization via Volcano plots and Boxplots.
 
-# Differential Gene Expression Analysis (DGE) 🧬🔥
+# Differential Gene Expression Analysis (DGE)
 
 This project identifies genes that are significantly up- or down-regulated under different stress conditions (Low Stress vs. High Stress).
 
