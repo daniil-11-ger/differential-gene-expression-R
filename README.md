@@ -12,7 +12,14 @@ This project identifies genes that are significantly up- or down-regulated under
 4. **Classification:** Genes are categorized into `Upregulated`, `Downregulated`, or `Not Significant` (p < 0.05).
 
 
-<summary>📂 Нажми, чтобы увидеть все графики анализа</summary>
+<details>
+<summary>📂 Click to view all analysis plots</summary>
+
+![Volcano](volcano_plot.png)
+![Boxplot](expression_boxplot.png)
+![Rplot](Rplot.png)
+
+</details>
 
 ![Volcano](plots/94907507-94f8-4c81-8306-c1217ba2a8de.png)
 ![Boxplot](plots/Rplot.png)
