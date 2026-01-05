@@ -36,14 +36,10 @@ In addition to sequence tools, this project includes modules for visualizing gen
 <details>
 <summary>📂 Нажми, чтобы увидеть все графики анализа</summary>
 
-![Volcano](volcano_plot.png)
-![Boxplot](expression_boxplot.png)
-![Rplot](Rplot.png)
+![Volcano](plots/94907507-94f8-4c81-8306-c1217ba2a8de.png)
+![Boxplot](plots/Rplot.png)
+![Rplot](plots/Rplot.png)
 
-</details>
-##  Visualizations
-### Volcano Plot
-The "Volcano" visualization allows for immediate identification of the most statistically significant genes with the largest fold changes.
 ![Volcano Plot](plots/volcano_plot.png)
 
 ### Expression Distribution
