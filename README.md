@@ -11,40 +11,17 @@ This project identifies genes that are significantly up- or down-regulated under
 3. **Biological Significance:** Calculating **Log Fold Change (LFC)** to determine the magnitude of change.
 4. **Classification:** Genes are categorized into `Upregulated`, `Downregulated`, or `Not Significant` (p < 0.05).
 
-<p align="center">
-  <img src="Снимок экрана 2026-01-05 220651.png" width="800" alt="App Interface Main">
-</p>
-## 📊 Data Visualization & Analysis
 
-In addition to sequence tools, this project includes modules for visualizing gene expression data:
-
-<p align="center">
-  <img src="volcano_plot.png" width="400" title="Volcano Plot - Differential Expression">
-  <img src="expression_boxplot.png" width="400" title="Expression Boxplot">
-</p>
-
-<p align="center">
-  <img src="Rplot.png" width="400" title="Statistical Analysis R Plot">
-  <img src="94907507-94f8-4c81-8306-c1217ba2a8de.png" width="400" title="Analysis Chart">
-</p>
-### 🧬 Genetic Mapping
-<p align="center">
-  <img src="gen1.png" width="350">
-  <img src="gen2.png" width="350">
-</p>
-
-<details>
 <summary>📂 Нажми, чтобы увидеть все графики анализа</summary>
 
 ![Volcano](plots/94907507-94f8-4c81-8306-c1217ba2a8de.png)
 ![Boxplot](plots/Rplot.png)
-![Rplot](plots/Rplot.png)
-
+![Rplot](plots/gen1.png)
+![Rplot](plots/gen2.png)
 ![Volcano Plot](plots/volcano_plot.png)
+![Volcano Plot](plots/Снимок экрана 2026-01-05 220638.png)
+![Volcano Plot](plots/Снимок экрана 2026-01-05 220651.png)
 
-### Expression Distribution
-Comparison of log-transformed expression levels across identified gene categories.
-![Boxplot](plots/expression_boxplot.png)
 
 
 
