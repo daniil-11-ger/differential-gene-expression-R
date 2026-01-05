@@ -1,3 +1,7 @@
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 # differential-gene-expression-R
 Gene expression profiling (LS vs HS samples) using Tidyverse. Includes paired t-tests, fold change calculation, and visualization via Volcano plots and Boxplots.
 
@@ -10,7 +14,7 @@ This project identifies genes that are significantly up- or down-regulated under
 2. **Statistical Sieve:** Applying **paired t-tests** to calculate significance (p-value).
 3. **Biological Significance:** Calculating **Log Fold Change (LFC)** to determine the magnitude of change.
 4. **Classification:** Genes are categorized into `Upregulated`, `Downregulated`, or `Not Significant` (p < 0.05).
-
+![Analysis 6](plots/15.png)
 
 <details>
 <summary>📂 Click to view all analysis plots</summary>
@@ -20,7 +24,7 @@ This project identifies genes that are significantly up- or down-regulated under
 ![Analysis 3](plots/gen1.png)
 ![Analysis 4](plots/gen2.png)
 ![Analysis 5](plots/volcano_plot.png)
-![Analysis 6](plots/15.png)
+
 ![Analysis 7](plots/151.png)
 
 </details>
