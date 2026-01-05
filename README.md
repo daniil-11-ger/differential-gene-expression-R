@@ -15,13 +15,13 @@ This project identifies genes that are significantly up- or down-regulated under
 <details>
 <summary>📂 Click to view all analysis plots</summary>
 
-![Analysis 1](94907507-94f8-4c81-8306-c1217ba2a8de.png)
-![Analysis 2](Rplot.png)
-![Analysis 3](gen1.png)
-![Analysis 4](gen2.png)
-![Analysis 5](volcano_plot.png)
-![Analysis 6](15.png)
-![Analysis 7](151.png)
+![Analysis 1](plots/94907507-94f8-4c81-8306-c1217ba2a8de.png)
+![Analysis 2](plots/Rplot.png)
+![Analysis 3](plots/gen1.png)
+![Analysis 4](plots/gen2.png)
+![Analysis 5](plots/volcano_plot.png)
+![Analysis 6](plots/15.png)
+![Analysis 7](plots/151.png)
 
 </details>
 
